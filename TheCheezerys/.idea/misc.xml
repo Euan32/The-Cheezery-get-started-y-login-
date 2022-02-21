@@ -9,8 +9,10 @@
         <entry key="..\:/Users/Usuario/AndroidStudioProjects/TheCheezerys/app/src/main/res/drawable/second_gradient.xml" value="0.1" />
         <entry key="..\:/Users/Usuario/AndroidStudioProjects/TheCheezerys/app/src/main/res/drawable/third_gradient.xml" value="0.1" />
         <entry key="..\:/Users/Usuario/AndroidStudioProjects/TheCheezerys/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/Users/Usuario/AndroidStudioProjects/TheCheezerys/app/src/main/res/layout/activity_menu.xml" value="0.1933876811594203" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/TheCheezerys/app/src/main/res/layout/activity_menu.xml" value="0.25" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/TheCheezerys/app/src/main/res/layout/activity_productos.xml" value="0.1933876811594203" />
         <entry key="..\:/Users/Usuario/AndroidStudioProjects/TheCheezerys/app/src/main/res/layout/activity_register.xml" value="0.1933876811594203" />
+        <entry key="..\:/Users/Usuario/AndroidStudioProjects/TheCheezerys/app/src/main/res/layout/producto_view.xml" value="0.1933876811594203" />
       </map>
     </option>
   </component>
